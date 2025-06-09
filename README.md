@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Tracker
 
 A web application that helps users track their habits and lifestyle by generating a personalized wellness score based on initial user input. Users can join and complete daily challenges to earn badges and improve their wellness journey.
@@ -37,3 +38,6 @@ A web application that helps users track their habits and lifestyle by generatin
    ```bash
    git clone https://github.com/kishan57436/personal-tracker.git
    cd personal-tracker
+=======
+# personal-tracker
+>>>>>>> 0c1d5e49003324209ea67fd2a46d7dddf13be4e8
