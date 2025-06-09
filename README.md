@@ -41,3 +41,7 @@ A web application that helps users track their habits and lifestyle by generatin
 =======
 # personal-tracker
 >>>>>>> 0c1d5e49003324209ea67fd2a46d7dddf13be4e8
+>>>>>>> Author
+Made with ❤️ by [kishan kumawat]
+
+
